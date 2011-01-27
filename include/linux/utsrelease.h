@@ -1,0 +1,1 @@
+#define UTS_RELEASE "2.6.29-BFS-LiGux-FLZYUP-v1.6"
